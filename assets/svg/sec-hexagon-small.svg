@@ -1,0 +1,8 @@
+<svg
+  aria-hidden="true" class="site-brand__hexagon" focusable="false" height="36" viewbox="0 0 48 48"
+  width="36"
+  xmlns="http://www.w3.org/2000/svg">
+  <path d="M24 3 42.2 13.5v21L24 45 5.8 34.5v-21Z" fill="none" stroke="currentColor"
+    stroke-linejoin="round"
+    stroke-width="3"></path>
+</svg>

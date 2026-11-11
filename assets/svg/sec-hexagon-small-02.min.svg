@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 69.95 45">
+  <g id="prefix__Layer_1">
+    <path fill="#4f200e"
+      d="M53.18 29.49h16.77l-3.84-4.57 3.84-4.56H53.18v9.13zM16.78 29.49H0l3.84-4.57L0 20.36h16.78v9.13z" />
+    <path d="M34.98 1.5L53.18 12v21l-18.2 10.5L16.78 33V12l18.2-10.5z" fill="none" stroke="#f4572f"
+      stroke-linejoin="round" stroke-width="3" />
+    <path fill="#4f200e" transform="rotate(-180 34.975 22.09)"
+      d="M10.21 17.02h49.54v10.15H10.21z" />
+  </g>
+</svg>

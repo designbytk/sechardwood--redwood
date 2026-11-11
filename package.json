@@ -1,0 +1,12 @@
+{
+  "name": "sec-hardwood-redwood",
+  "private": true,
+  "scripts": {
+    "start": "node scripts/serve.mjs",
+    "stop": "node scripts/stop.mjs",
+    "dev": "node scripts/serve.mjs"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
